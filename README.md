@@ -5,7 +5,7 @@
 [![N|Solid](https://u.livelib.ru/character/1000005196/o/jmer1ksx/o-o.jpeg)](https://nodesource.com/products/nsolid)
 
 
-MaksimP.ipynb - записная книжка с чем-то
+MaksimP.ipynb - записная книжка c примером пайтон
 
 
 Пщеничников 021.py - sql база данных
