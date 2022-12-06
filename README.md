@@ -10,7 +10,7 @@ $I=\frac{\Delta q}{\Delta t}$
 $\sum_{i=1}^{n}\mathrm{I}{i}^{}\mathrm{R}{i}^{}=\sum_{i=1}^{n}\mathrm{ℰ}_{i}^{}$
 flowchart LR
 
-A[Hard] -->|Text| B(Round)
+$A[Hard] -->|Text| B(Round)
 B --> C{Decision}
 C -->|One| D[Result 1]
-C -->|Two| E[Result 2]
+C -->|Two| E[Result 2]$
